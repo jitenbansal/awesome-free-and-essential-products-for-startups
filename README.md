@@ -99,6 +99,7 @@ If you don’t have technical background you can start from these hosted version
 -   [hangouts](https://hangouts.google.com/)  (free for gmail/gsuite users)
 -   [slack](https://slack.com/)
 -   [facebook workplace](https://www.facebook.com/workplace)
+-   [Zulip](https://www.zulipchat.com/) (open source)
 
 ----------
 
