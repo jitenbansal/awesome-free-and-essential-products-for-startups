@@ -210,6 +210,7 @@ If you don’t have technical background you can start from these hosted version
 -   [moo.do](https://www.moo.do/)
 -   [trello](https://trello.com/)
 -   [pipefy](https://www.pipefy.com/)
+-   [taskade](https://www.taskade.com/)
 
 ----------
 
