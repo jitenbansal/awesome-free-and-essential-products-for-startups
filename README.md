@@ -238,6 +238,7 @@ If you don’t have technical background you can start from these hosted version
 -   [jotform](https://www.jotform.com/)
 -   [wufoo](https://www.wufoo.com/)
 -   [surveymonkey](https://www.surveymonkey.com/)
+-   [FormNX](https://www.formnx.com/) (99% features for free)
 
 ----------
 
