@@ -9,6 +9,7 @@ Curated list of free and essential products
 -   [domainhack](https://www.domainhack.me/)  (take advantage of different TLDs and hack your domain e.g hy.pe)
 -   [agiledomainsearch](http://agiledomainsearch.com/)  (generate domain names by adding some random but related word)
 -   [domaindart](https://www.domaindart.com/)  (Generate domain name by adding prefix or suffix)
+-   [TinyTools - Domain Name Generator](https://tinytools-smoky.vercel.app/)  (AI-powered domain name ideas based on keywords, no signup needed)
 
 ----------
 
@@ -155,6 +156,7 @@ If you don’t have technical background you can start from these hosted version
 -   [canva](https://www.canva.com/)
 -   [pablo](https://pablo.buffer.com/)
 -   [snappa](https://snappa.com/)
+-   [TinyTools - OG Image Generator](https://tinytools-smoky.vercel.app/)  (Create Open Graph preview cards for social posts, free, no signup)
 
 ----------
 
