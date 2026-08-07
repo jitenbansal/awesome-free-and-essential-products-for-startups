@@ -155,6 +155,7 @@ If you don’t have technical background you can start from these hosted version
 -   [canva](https://www.canva.com/)
 -   [pablo](https://pablo.buffer.com/)
 -   [snappa](https://snappa.com/)
+-   [autoposting](https://autoposting.ai/)
 
 ----------
 
