@@ -190,6 +190,7 @@ If you don’t have technical background you can start from these hosted version
 -   [indiehackers](https://www.indiehackers.com/new-product)
 -   [reddit.com/r/SideProject](https://www.reddit.com/r/SideProject)
 -   [reddit.com/r/growmybusiness](https://www.reddit.com/r/growmybusiness)
+-   [ideahunter](https://ideahunter.today/)  (AI research for demand-backed app and micro-SaaS ideas)
 
 ----------
 
